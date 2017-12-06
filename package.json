@@ -1,7 +1,7 @@
 {
   "name": "leaderboard",
   "version": "1.0.0",
-  "description": "A live Chilling-Board using Pusher and Vue",
+  "description": "A simple demo of a live 'Chilling-Board' using Pusher and Vue",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
