@@ -1,0 +1,31 @@
+body,.root{
+    padding: 0px;
+    margin: 0px;
+    /* width: 100%; */
+}
+.container{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+header{
+    height: 30%;
+    width: 100%;
+    margin: 0px;
+    padding: 30px;
+    color: White;
+    background-color: black;
+    border-bottom: 5px solid rgb(8, 70, 112);
+    margin-bottom: 30px;
+}
+header h1{
+    margin: 0px;
+    padding-top: 30px;
+}
+header p{
+    padding: 10px;
+}
+main{
+    width: 70%;
+    margin: 10px auto;
+}
